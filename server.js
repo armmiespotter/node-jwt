@@ -12,6 +12,10 @@ const data = [
     username: "johnwatson",
     fullname: "John H. Watson",
   },
+  {
+    username: "lestrade",
+    fullname: "G. Lestrade",
+  },
 ];
 
 app.use(express.json());
